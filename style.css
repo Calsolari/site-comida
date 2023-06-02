@@ -1,0 +1,248 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    position: relative;
+width: 140px;
+height: 900px;
+    background-color: #EB3402;
+    
+}
+.titulo{
+position: absolute;
+width: 267px;
+height: 40px;
+left: 89px;
+top: 24px;
+}
+.linha{
+position: absolute;
+width: 1570px;
+height: 0px;
+left: 0px;
+top: 97px;
+
+border: 3px solid #000000;
+}
+.telefone{
+ position: absolute;
+width: 199px;
+height: 24px;
+left: 603px;
+top: 37px;
+
+}
+.usuario{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 1125px;
+top: 25px;
+}
+.carrinho{
+position: absolute;
+width: 30px;
+height: 29.05px;
+left: 1190px;
+top: 38px;
+}
+.idioma{
+    position: absolute;
+width: 99px;
+height: 31px;
+left: 1262px;
+top: 38px;
+}
+.onome{
+    position: absolute;
+width: 250px;
+height: 75px;
+    left: -11163px;
+top: 99px;
+}
+.nome{
+    position: absolute;
+    width: 362px;
+    height: 220px;
+    left: 89px;
+    top: 208px;
+}
+.legenda{
+    position: absolute;
+width: 371px;
+height: 74px;
+left: 92px;
+top: 475px;
+}
+.catalogo{
+    position: absolute;
+    width: 205.49px;
+    height: 58.33px;
+    left: 136px;
+    top: 610px;
+}
+.burgao{
+    position: absolute;
+width: 480px;
+height: 428px;
+left: 521px;
+top: 182px;
+}
+.grupo{
+    position: absolute;
+width: 196px;
+height: 292px;
+left: 1403px;
+top: 306px;
+}
+.four{
+    position: absolute;
+    width: 157.68px;
+    height: 151.45px;
+    left: 372px;
+    top: 85px;    
+}
+.three{
+    position: absolute;
+width: 157.68px;
+height: 151.45px;
+left: 934px;
+top: 621.44px;
+transform: rotate(-35deg);
+}
+.two{
+    position: absolute;
+width: 216px;
+height: 221px;
+left: 1322px;
+top: 69px;
+}
+.one{
+    position: absolute;
+width: 238px;
+height: 238px;
+left: -97px;
+top: 582px;
+}
+.onda{
+    position: absolute;
+width: 1570px;
+height: 205px;
+left: 0px;
+top: 697px;
+}
+    @media (max-width: 1024px){
+        body {
+            position: relative;
+    width: 320px;
+    height: 568px;
+    margin-bottom: auto;
+        }
+    
+        
+        .titulo{
+            position: absolute;
+            width: 190px;
+            height: 35px;
+            left: 18px;
+            top: 15px;
+
+        }
+        .linha{
+        position: absolute;
+        position: absolute;
+        width: 375px;
+        height: 0px;
+        left: 0px;
+        top: 63px;
+        border: 3px solid #000000;
+        }
+        .usuario{
+            position: absolute;
+            width: 35px;
+            height: 29px;
+            left: 217px;
+            top: 18px;
+        }
+        .carrinho{
+            position: absolute;
+            width: 20px;
+            height: 18px;
+            left: 257px;
+            top: 23px;
+        }
+        .idioma{
+            position: absolute;
+    width: 70px;
+    height: 20px;
+    left: 290px;
+    top: 22px;
+
+        }
+        .onome{
+            position: absolute;
+        width: 250px;
+        height: 75px;
+            left: 63px;
+        top: 99px;
+        }
+        .nome{
+            position: absolute;
+width: 190px;
+height:100px;
+left: 1163px;
+top: 80px;
+        }
+        .legenda{
+            position: absolute;
+width: 298px;
+height: 82px;
+left: 35px;
+top: 195px;
+        }
+        .catalogo{
+            position: absolute;
+width: 205.49px;
+height: 58.33px;
+left: 90px;
+top: 486px;
+        }
+        .burgao{
+            position: absolute;
+width: 192px;
+height: 192px;
+left: 90px;
+top: 288px;
+        }
+        .grupo{
+            position: absolute;
+        width: 196px;
+        height: 292px;
+        left: 1203px;
+        top: 236px;
+        }
+        .two{
+            position: absolute;
+width: 120px;
+height: 100px;
+left: 320px;
+top: 328px;
+        }
+        .one{
+            position: absolute;
+            width: 120px;
+            height: 90px;
+            left: -67px;
+            top: 525px;
+        }
+        .onda{
+            position: absolute;
+width: 380px;
+height: 100px;
+left: 0px;
+top: 569px;
+        }
+    }
